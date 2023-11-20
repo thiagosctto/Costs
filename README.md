@@ -1,3 +1,9 @@
+<div align-itens="center">
+    <img src="./imgSite/Screenshot_1.png"></img>
+    <img src="./imgSite/Screenshot_2.png"></img>
+    <img src="./imgSite/Screenshot_3.png"></img>
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
